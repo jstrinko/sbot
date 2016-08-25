@@ -1,0 +1,46 @@
+{
+  "name": "sbot",
+  "description": "SBot is a simple yet powerful http wrapper to make fetching urls simple",
+  "version": "0.0.1",
+  "homepage": "https://github.com/jstrinko/sbot",
+  "author": {
+    "name": "Jeff Strinko",
+    "email": "jstrinko@gmail.com",
+    "url": "http://github.com/jstrinko"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jstrinko/sbot.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jstrinko/sbot/issues"
+  },
+  "files": [
+    "lib/sbot.js"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/jstrinko/sbot/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "lib/sbot.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "keywords": [
+    "http wrapper",
+    "https wrapper",
+    "bot"
+  ],
+  "_npmUser": {
+    "name": "jstrinko",
+    "email": "jstrinko@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "jstrinko",
+      "email": "jstrinko@gmail.com"
+    }
+  ]
+}
