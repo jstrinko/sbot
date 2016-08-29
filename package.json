@@ -1,7 +1,7 @@
 {
   "name": "sbot",
   "description": "SBot is a simple yet powerful http wrapper to make fetching urls simple",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "https://github.com/jstrinko/sbot",
   "author": {
     "name": "Jeff Strinko",
